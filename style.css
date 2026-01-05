@@ -23,6 +23,12 @@ p{
     color: hsl(216, 15%, 48%);
 }
 
+footer{
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
 .outer-box{
     background-color: hsl(0, 0%, 100%);
     width: 300px;
@@ -45,10 +51,4 @@ p{
     margin: 5% 5% 0% 5%;
     width: 90%;
     border-radius: 20px;
-}
-
-.attribution{
-    font-size: 11px;
-    text-align: center;
-    color: hsl(228, 45%, 44%);
 }
